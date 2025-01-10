@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "phishing 17-12",
+"productVersion": "0.1",
+"dataUrl": "Phshing- Manav.data.unityweb",
+"wasmCodeUrl": "Phshing- Manav.wasm.code.unityweb",
+"wasmFrameworkUrl": "Phshing- Manav.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
